@@ -1,2 +1,2 @@
-# chicago-artists.github.io
+# chicagoartists.github.io
 Chicago Artists File Search Tool

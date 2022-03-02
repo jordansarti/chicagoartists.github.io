@@ -211,13 +211,13 @@
                                     '<li>File: ' + ( resultsArray[h].file == "TRUE" ? 'Yes' : 'No') + '</li>' +
                                     '<li>Slides: ' + ( resultsArray[h].slides == "TRUE" ? 'Yes' : 'No') + '</li>' +
                                     '<li>Video: ' + ( resultsArray[h].videos == "TRUE" ? 'Yes' : 'No') + '</li>' +
-                                    ( resultsArray[h].resume == "TRUE" ? '<li>Resume: Yes </li>' : '') +
-                                    ( resultsArray[h].article == "TRUE" ? '<li>Article: Yes </li>' : '') +
-                                    ( resultsArray[h].poster == "TRUE" ? '<li>Poster: Yes </li>' : '') +
-                                    ( resultsArray[h].folio == "TRUE" ? '<li>Folio: Yes </li>' : '') +
-                                    ( resultsArray[h].cdrom == "TRUE" ? '<li>CD-ROM: Yes </li>' : '') +
-                                    ( resultsArray[h].artistStatement == "TRUE" ? '<li>Artist Statement: Yes' : '') + 
-                                    ( resultsArray[h].galleryNotice == "TRUE" ? '<li>Gallery Notice: Yes' : '') + 
+                                    ( resultsArray[h].resume == "1" || resultsArray[h].resume == "TRUE" ? '<li>Resume: Yes </li>' : '') +
+                                    ( resultsArray[h].article == "1" || resultsArray[h].article == "TRUE" ? '<li>Article: Yes </li>' : '') +
+                                    ( resultsArray[h].poster == "1" || resultsArray[h].poster == "TRUE" ? '<li>Poster: Yes </li>' : '') +
+                                    ( resultsArray[h].folio == "1" || resultsArray[h].folio == "TRUE" ? '<li>Folio: Yes </li>' : '') +
+                                    ( resultsArray[h].cdrom == "1" || resultsArray[h].cdrom == "TRUE" ? '<li>CD-ROM: Yes </li>' : '') +
+                                    ( resultsArray[h].artistStatement == "1" || resultsArray[h].artistStatement == "TRUE" ? '<li>Artist Statement: Yes' : '') + 
+                                    ( resultsArray[h].galleryNotice == "1" || resultsArray[h].galleryNotice == "TRUE" ? '<li>Gallery Notice: Yes' : '') + 
                                 '</ul>' +
                             '</p>' +
                             (resultsArray[h].notes != '' ? '<p class="artist-notes">Notes: ' + resultsArray[h].notes + '</p>' : '' ) + 

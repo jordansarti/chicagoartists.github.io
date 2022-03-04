@@ -29,19 +29,6 @@ with open(csvLink_Art_Terms, encoding='utf-8') as lf:
             artTermsTable[at] = [a["Artists_Accession_Number"]]
         else: 
             artTermsTable[at].append(a["Artists_Accession_Number"])
-        # if accno not in caaJson:
-        #     caaJson[accno] = {
-        #         "artTerms": [at]
-        #     }
-        #     # caaJson[accno]["artTerms"].append(at)
-        #     print(str(accno) + " not in caaJson ; " + caaJson[accno]["artTerms"][0])
-        # else: 
-        #     if "artTerms" not in caaJson[accno]:
-        #         caaJson[accno] = {
-        #             "artTerms": [at]
-        #         }
-        #         print(str(accno) + " in caaJson but no artTerms yet ; " + caaJson[accno]["artTerms"][0])
-        #     # else:
         try: 
             caaJson[accno]["artTerms"].append(at)
         except: 
@@ -63,7 +50,7 @@ with open(csvLink_Cultures, encoding='utf-8') as lf:
             caaJson[accno]["cultures"] = []
             caaJson[accno]["cultures"].append(at)
 
-# TOMORROWNICK:
+# TOMORROW:
 # needs to iterate over link_monographs and unique_monographs to put unique monographs into caaJson["monographs"]{}
 
 with open(csvUnique_monographs, encoding='utf-8') as lf:

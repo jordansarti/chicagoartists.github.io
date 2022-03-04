@@ -1,0 +1,509 @@
+[
+    {
+        "Art_Term": "Acrylics"
+    },
+    {
+        "Art_Term": "Advertising Design"
+    },
+    {
+        "Art_Term": "Airbrush"
+    },
+    {
+        "Art_Term": "Animation"
+    },
+    {
+        "Art_Term": "Architecture"
+    },
+    {
+        "Art_Term": "Art Critic"
+    },
+    {
+        "Art_Term": "Art Educator"
+    },
+    {
+        "Art_Term": "Artists' Books"
+    },
+    {
+        "Art_Term": "Assemblage"
+    },
+    {
+        "Art_Term": "Basketmaking"
+    },
+    {
+        "Art_Term": "Batik"
+    },
+    {
+        "Art_Term": "Beadwork"
+    },
+    {
+        "Art_Term": "Block Printing"
+    },
+    {
+        "Art_Term": "Bookbinding"
+    },
+    {
+        "Art_Term": "Bookplates"
+    },
+    {
+        "Art_Term": "Bronzes"
+    },
+    {
+        "Art_Term": "Calligraphy"
+    },
+    {
+        "Art_Term": "Caricatures"
+    },
+    {
+        "Art_Term": "Cartography"
+    },
+    {
+        "Art_Term": "Cartoons"
+    },
+    {
+        "Art_Term": "Casein"
+    },
+    {
+        "Art_Term": "Ceramics"
+    },
+    {
+        "Art_Term": "Church Decoration"
+    },
+    {
+        "Art_Term": "Collage"
+    },
+    {
+        "Art_Term": "Collector"
+    },
+    {
+        "Art_Term": "Comics"
+    },
+    {
+        "Art_Term": "Computer Art"
+    },
+    {
+        "Art_Term": "Conceptual Art"
+    },
+    {
+        "Art_Term": "Conservation"
+    },
+    {
+        "Art_Term": "Construction"
+    },
+    {
+        "Art_Term": "Costume Design"
+    },
+    {
+        "Art_Term": "Crafts"
+    },
+    {
+        "Art_Term": "Curator"
+    },
+    {
+        "Art_Term": "Design"
+    },
+    {
+        "Art_Term": "Dollmaking"
+    },
+    {
+        "Art_Term": "Drafting"
+    },
+    {
+        "Art_Term": "Drawing"
+    },
+    {
+        "Art_Term": "Drypoint"
+    },
+    {
+        "Art_Term": "Egg Tempera"
+    },
+    {
+        "Art_Term": "Embroidery"
+    },
+    {
+        "Art_Term": "Enameling"
+    },
+    {
+        "Art_Term": "Encaustic Painting"
+    },
+    {
+        "Art_Term": "Engraving"
+    },
+    {
+        "Art_Term": "Environmental Art"
+    },
+    {
+        "Art_Term": "Etching"
+    },
+    {
+        "Art_Term": "Fashion Design"
+    },
+    {
+        "Art_Term": "Faux Finishing"
+    },
+    {
+        "Art_Term": "Fiber Art"
+    },
+    {
+        "Art_Term": "Filmmaker"
+    },
+    {
+        "Art_Term": "Floral Design"
+    },
+    {
+        "Art_Term": "Folk Art"
+    },
+    {
+        "Art_Term": "Found Objects"
+    },
+    {
+        "Art_Term": "Fresco"
+    },
+    {
+        "Art_Term": "Funerary Sculpture"
+    },
+    {
+        "Art_Term": "Furniture"
+    },
+    {
+        "Art_Term": "Gallery Director"
+    },
+    {
+        "Art_Term": "Glass"
+    },
+    {
+        "Art_Term": "Glass sculpture"
+    },
+    {
+        "Art_Term": "Glyptics"
+    },
+    {
+        "Art_Term": "Goldsmithing"
+    },
+    {
+        "Art_Term": "Gouache"
+    },
+    {
+        "Art_Term": "Gourds"
+    },
+    {
+        "Art_Term": "Graffiti"
+    },
+    {
+        "Art_Term": "Graphics"
+    },
+    {
+        "Art_Term": "Greeting Cards"
+    },
+    {
+        "Art_Term": "Holography"
+    },
+    {
+        "Art_Term": "Icons"
+    },
+    {
+        "Art_Term": "Illumination"
+    },
+    {
+        "Art_Term": "Illustration"
+    },
+    {
+        "Art_Term": "Industrial Design"
+    },
+    {
+        "Art_Term": "Ink"
+    },
+    {
+        "Art_Term": "Inlaid Wood"
+    },
+    {
+        "Art_Term": "Installation"
+    },
+    {
+        "Art_Term": "Interior Design"
+    },
+    {
+        "Art_Term": "Jewelry"
+    },
+    {
+        "Art_Term": "Ketubot"
+    },
+    {
+        "Art_Term": "Kitemaking"
+    },
+    {
+        "Art_Term": "Lace Making"
+    },
+    {
+        "Art_Term": "Land Art"
+    },
+    {
+        "Art_Term": "Landscape Architecture"
+    },
+    {
+        "Art_Term": "Landscapes"
+    },
+    {
+        "Art_Term": "Light Art"
+    },
+    {
+        "Art_Term": "Lithography"
+    },
+    {
+        "Art_Term": "Macrame"
+    },
+    {
+        "Art_Term": "Makeup Artist"
+    },
+    {
+        "Art_Term": "Marbling"
+    },
+    {
+        "Art_Term": "Marine Painting"
+    },
+    {
+        "Art_Term": "Marquetry"
+    },
+    {
+        "Art_Term": "Maskmaking"
+    },
+    {
+        "Art_Term": "Medical Illustration"
+    },
+    {
+        "Art_Term": "Metalwork"
+    },
+    {
+        "Art_Term": "Miniatures"
+    },
+    {
+        "Art_Term": "Mixed Media"
+    },
+    {
+        "Art_Term": "Multimedia"
+    },
+    {
+        "Art_Term": "Murals"
+    },
+    {
+        "Art_Term": "Naive Art"
+    },
+    {
+        "Art_Term": "Needlework"
+    },
+    {
+        "Art_Term": "Oil Crayon"
+    },
+    {
+        "Art_Term": "Oil Painting"
+    },
+    {
+        "Art_Term": "Origami"
+    },
+    {
+        "Art_Term": "Painting"
+    },
+    {
+        "Art_Term": "Papermaking"
+    },
+    {
+        "Art_Term": "Pastels"
+    },
+    {
+        "Art_Term": "Performance Art"
+    },
+    {
+        "Art_Term": "Photocopies"
+    },
+    {
+        "Art_Term": "Photograms"
+    },
+    {
+        "Art_Term": "Photography"
+    },
+    {
+        "Art_Term": "Pinup Art"
+    },
+    {
+        "Art_Term": "Plexiglass"
+    },
+    {
+        "Art_Term": "Portraits"
+    },
+    {
+        "Art_Term": "Postal Art"
+    },
+    {
+        "Art_Term": "Printmaking"
+    },
+    {
+        "Art_Term": "Puppetry"
+    },
+    {
+        "Art_Term": "Pyrography"
+    },
+    {
+        "Art_Term": "Quilting"
+    },
+    {
+        "Art_Term": "Reverse Painting"
+    },
+    {
+        "Art_Term": "Rosemaling"
+    },
+    {
+        "Art_Term": "Rubbings"
+    },
+    {
+        "Art_Term": "Scenography"
+    },
+    {
+        "Art_Term": "Scratchboard"
+    },
+    {
+        "Art_Term": "Screen Printing"
+    },
+    {
+        "Art_Term": "Scrimshaw"
+    },
+    {
+        "Art_Term": "Sculpture"
+    },
+    {
+        "Art_Term": "Silverpoint"
+    },
+    {
+        "Art_Term": "Silversmithing"
+    },
+    {
+        "Art_Term": "Social Practice"
+    },
+    {
+        "Art_Term": "Sound Art"
+    },
+    {
+        "Art_Term": "Stained Glass"
+    },
+    {
+        "Art_Term": "Stone Carving"
+    },
+    {
+        "Art_Term": "Street Art"
+    },
+    {
+        "Art_Term": "Tapestry"
+    },
+    {
+        "Art_Term": "Tattoo Artist"
+    },
+    {
+        "Art_Term": "Tempera"
+    },
+    {
+        "Art_Term": "Textiles"
+    },
+    {
+        "Art_Term": "Theater Design"
+    },
+    {
+        "Art_Term": "Tie Dying"
+    },
+    {
+        "Art_Term": "Topiary Sculpture"
+    },
+    {
+        "Art_Term": "Toy Making"
+    },
+    {
+        "Art_Term": "Turnery"
+    },
+    {
+        "Art_Term": "Typography"
+    },
+    {
+        "Art_Term": "Video Art"
+    },
+    {
+        "Art_Term": "Wallpaper"
+    },
+    {
+        "Art_Term": "Watercolor"
+    },
+    {
+        "Art_Term": "Weaving"
+    },
+    {
+        "Art_Term": "Wood Block Printing"
+    },
+    {
+        "Art_Term": "Woodcarving"
+    },
+    {
+        "Art_Term": "Woodcuts"
+    },
+    {
+        "Art_Term": "Woodworking"
+    },
+    {
+        "Art_Term": "Works on Paper"
+    },
+    {
+        "Art_Term": "Writing"
+    },
+    {
+        "Art_Term": "Collographs"
+    },
+    {
+        "Art_Term": "Product Design"
+    },
+    {
+        "Art_Term": "Museum Director"
+    },
+    {
+        "Art_Term": "Chuppahs"
+    },
+    {
+        "Art_Term": "Composer"
+    },
+    {
+        "Art_Term": "Arts Organization"
+    },
+    {
+        "Art_Term": "Papier Mache"
+    },
+    {
+        "Art_Term": "Interdisciplinary"
+    },
+    {
+        "Art_Term": "Digital Art"
+    },
+    {
+        "Art_Term": "Art Gallery"
+    },
+    {
+        "Art_Term": "Paper Cutting"
+    },
+    {
+        "Art_Term": "Religious Art"
+    },
+    {
+        "Art_Term": "Billboards"
+    },
+    {
+        "Art_Term": "Posters"
+    },
+    {
+        "Art_Term": "Art Historian"
+    },
+    {
+        "Art_Term": "Art Therapist"
+    },
+    {
+        "Art_Term": "Millinery"
+    },
+    {
+        "Art_Term": "Mosaics"
+    },
+    {
+        "Art_Term": "Silhouettes"
+    }
+]

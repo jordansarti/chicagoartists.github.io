@@ -1,0 +1,7874 @@
+[
+    {
+        "Artists_Accession_Number": "11",
+        "Culture": "Navajo"
+    },
+    {
+        "Artists_Accession_Number": "13",
+        "Culture": "Norway"
+    },
+    {
+        "Artists_Accession_Number": "16",
+        "Culture": "Dominican Republic"
+    },
+    {
+        "Artists_Accession_Number": "52",
+        "Culture": "Turkey"
+    },
+    {
+        "Artists_Accession_Number": "53",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "57",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "63",
+        "Culture": "Nigeria"
+    },
+    {
+        "Artists_Accession_Number": "65",
+        "Culture": "Spain"
+    },
+    {
+        "Artists_Accession_Number": "67",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "69",
+        "Culture": "Turkey"
+    },
+    {
+        "Artists_Accession_Number": "86",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "88",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "89",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "92",
+        "Culture": "Norway"
+    },
+    {
+        "Artists_Accession_Number": "93",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "95",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "96",
+        "Culture": "Belgium"
+    },
+    {
+        "Artists_Accession_Number": "113",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "124",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "126",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "126",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "126",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "127",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "128",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "130",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "143",
+        "Culture": "Israel"
+    },
+    {
+        "Artists_Accession_Number": "143",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "145",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "154",
+        "Culture": "Norway"
+    },
+    {
+        "Artists_Accession_Number": "159",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "166",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "180",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "180",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "182",
+        "Culture": "Canada"
+    },
+    {
+        "Artists_Accession_Number": "183",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "183",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "190",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "199",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "202",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "208",
+        "Culture": "Colombia"
+    },
+    {
+        "Artists_Accession_Number": "212",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "212",
+        "Culture": "Romania"
+    },
+    {
+        "Artists_Accession_Number": "220",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "223",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "226",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "230",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "231",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "246",
+        "Culture": "Norway"
+    },
+    {
+        "Artists_Accession_Number": "255",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "262",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "266",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "267",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "268",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "269",
+        "Culture": "Norway"
+    },
+    {
+        "Artists_Accession_Number": "270",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "276",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "279",
+        "Culture": "Chile"
+    },
+    {
+        "Artists_Accession_Number": "283",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "296",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "297",
+        "Culture": "Belgium"
+    },
+    {
+        "Artists_Accession_Number": "300",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "304",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "305",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "305",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "312",
+        "Culture": "Yugoslavia"
+    },
+    {
+        "Artists_Accession_Number": "314",
+        "Culture": "Norway"
+    },
+    {
+        "Artists_Accession_Number": "332",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "335",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "350",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "362",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "363",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "372",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "374",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "374",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "379",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "380",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "390",
+        "Culture": "Switzerland"
+    },
+    {
+        "Artists_Accession_Number": "392",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "394",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "431",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "474",
+        "Culture": "Canada"
+    },
+    {
+        "Artists_Accession_Number": "484",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "508",
+        "Culture": "Navajo"
+    },
+    {
+        "Artists_Accession_Number": "509",
+        "Culture": "Navajo"
+    },
+    {
+        "Artists_Accession_Number": "510",
+        "Culture": "Navajo"
+    },
+    {
+        "Artists_Accession_Number": "511",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "513",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "513",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "514",
+        "Culture": "Romania"
+    },
+    {
+        "Artists_Accession_Number": "532",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "539",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "542",
+        "Culture": "Norway"
+    },
+    {
+        "Artists_Accession_Number": "545",
+        "Culture": "Panama"
+    },
+    {
+        "Artists_Accession_Number": "552",
+        "Culture": "Scotland"
+    },
+    {
+        "Artists_Accession_Number": "567",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "572",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "578",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "581",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "585",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "589",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "590",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "604",
+        "Culture": "Norway"
+    },
+    {
+        "Artists_Accession_Number": "609",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "614",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "621",
+        "Culture": "Argentina"
+    },
+    {
+        "Artists_Accession_Number": "624",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "628",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "645",
+        "Culture": "Philippines"
+    },
+    {
+        "Artists_Accession_Number": "646",
+        "Culture": "Norway"
+    },
+    {
+        "Artists_Accession_Number": "649",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "660",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "662",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "664",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "667",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "675",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "711",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "715",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "718",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "721",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "726",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "731",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "741",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "744",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "769",
+        "Culture": "Israel"
+    },
+    {
+        "Artists_Accession_Number": "782",
+        "Culture": "Netherlands"
+    },
+    {
+        "Artists_Accession_Number": "805",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "808",
+        "Culture": "Yugoslavia"
+    },
+    {
+        "Artists_Accession_Number": "824",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "827",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "834",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "839",
+        "Culture": "Serbia"
+    },
+    {
+        "Artists_Accession_Number": "839",
+        "Culture": "Yugoslavia"
+    },
+    {
+        "Artists_Accession_Number": "843",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "876",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "879",
+        "Culture": "Czechoslovakia"
+    },
+    {
+        "Artists_Accession_Number": "879",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "909",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "913",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "914",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "919",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "922",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "928",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "937",
+        "Culture": "Czechoslovakia"
+    },
+    {
+        "Artists_Accession_Number": "965",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "965",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "975",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "987",
+        "Culture": "Spain"
+    },
+    {
+        "Artists_Accession_Number": "1026",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1035",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "1036",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1042",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "1049",
+        "Culture": "France"
+    },
+    {
+        "Artists_Accession_Number": "1052",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "1061",
+        "Culture": "Philippines"
+    },
+    {
+        "Artists_Accession_Number": "1089",
+        "Culture": "Canada"
+    },
+    {
+        "Artists_Accession_Number": "1090",
+        "Culture": "France"
+    },
+    {
+        "Artists_Accession_Number": "1096",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1098",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "1109",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1112",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1118",
+        "Culture": "Italian-American"
+    },
+    {
+        "Artists_Accession_Number": "1124",
+        "Culture": "Norway"
+    },
+    {
+        "Artists_Accession_Number": "1158",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1162",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1163",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1165",
+        "Culture": "Brazil"
+    },
+    {
+        "Artists_Accession_Number": "1175",
+        "Culture": "Afro-Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "1178",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1185",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1196",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1201",
+        "Culture": "Spain"
+    },
+    {
+        "Artists_Accession_Number": "1219",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "1224",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "1231",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1232",
+        "Culture": "France"
+    },
+    {
+        "Artists_Accession_Number": "1236",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "1237",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1242",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "1243",
+        "Culture": "Belize"
+    },
+    {
+        "Artists_Accession_Number": "1257",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1259",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "1268",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "1277",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1283",
+        "Culture": "Romania"
+    },
+    {
+        "Artists_Accession_Number": "1284",
+        "Culture": "Georgia"
+    },
+    {
+        "Artists_Accession_Number": "1286",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "1304",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "1309",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "1311",
+        "Culture": "Czechoslovakia"
+    },
+    {
+        "Artists_Accession_Number": "1324",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1325",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1353",
+        "Culture": "Spain"
+    },
+    {
+        "Artists_Accession_Number": "1371",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1372",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1372",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "1376",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "1379",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1392",
+        "Culture": "France"
+    },
+    {
+        "Artists_Accession_Number": "1430",
+        "Culture": "Netherlands"
+    },
+    {
+        "Artists_Accession_Number": "1440",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1449",
+        "Culture": "France"
+    },
+    {
+        "Artists_Accession_Number": "1453",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1458",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "1465",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1485",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1489",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1523",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1529",
+        "Culture": "Belgium"
+    },
+    {
+        "Artists_Accession_Number": "1536",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "1540",
+        "Culture": "France"
+    },
+    {
+        "Artists_Accession_Number": "1544",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "1569",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "1581",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "1584",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "1596",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1603",
+        "Culture": "Brazil"
+    },
+    {
+        "Artists_Accession_Number": "1615",
+        "Culture": "Latvia"
+    },
+    {
+        "Artists_Accession_Number": "1622",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1627",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1631",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1641",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1645",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1657",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1663",
+        "Culture": "Spain"
+    },
+    {
+        "Artists_Accession_Number": "1678",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "1680",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "1683",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "1723",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1732",
+        "Culture": "India"
+    },
+    {
+        "Artists_Accession_Number": "1733",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "1737",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1743",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "1755",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1758",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "1759",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "1769",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "1776",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1777",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1797",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "1804",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "1805",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "1824",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "1826",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1826",
+        "Culture": "Israel"
+    },
+    {
+        "Artists_Accession_Number": "1832",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1835",
+        "Culture": "Turkey"
+    },
+    {
+        "Artists_Accession_Number": "1871",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1882",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "1882",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1888",
+        "Culture": "Morocco"
+    },
+    {
+        "Artists_Accession_Number": "1888",
+        "Culture": "Muslim"
+    },
+    {
+        "Artists_Accession_Number": "1908",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "1909",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "1937",
+        "Culture": "Bohemia"
+    },
+    {
+        "Artists_Accession_Number": "1954",
+        "Culture": "Nigeria"
+    },
+    {
+        "Artists_Accession_Number": "1968",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1971",
+        "Culture": "Guatemala"
+    },
+    {
+        "Artists_Accession_Number": "1984",
+        "Culture": "Basque"
+    },
+    {
+        "Artists_Accession_Number": "1986",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "1998",
+        "Culture": "Tunisia"
+    },
+    {
+        "Artists_Accession_Number": "2000",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2008",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "2015",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "2033",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2040",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2069",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "2097",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "2098",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "2108",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "2125",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2125",
+        "Culture": "Latvia"
+    },
+    {
+        "Artists_Accession_Number": "2135",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "2136",
+        "Culture": "Serbia"
+    },
+    {
+        "Artists_Accession_Number": "2149",
+        "Culture": "Hawaii"
+    },
+    {
+        "Artists_Accession_Number": "2157",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2167",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2179",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "2180",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "2184",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2196",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2200",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2201",
+        "Culture": "France"
+    },
+    {
+        "Artists_Accession_Number": "2204",
+        "Culture": "Argentina"
+    },
+    {
+        "Artists_Accession_Number": "2216",
+        "Culture": "Spain"
+    },
+    {
+        "Artists_Accession_Number": "2217",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2252",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2257",
+        "Culture": "Norway"
+    },
+    {
+        "Artists_Accession_Number": "2258",
+        "Culture": "France"
+    },
+    {
+        "Artists_Accession_Number": "2266",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "2270",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "2277",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "2284",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2308",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "2316",
+        "Culture": "Belgium"
+    },
+    {
+        "Artists_Accession_Number": "2330",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2332",
+        "Culture": "Canada"
+    },
+    {
+        "Artists_Accession_Number": "2356",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2367",
+        "Culture": "Jamaica"
+    },
+    {
+        "Artists_Accession_Number": "2368",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "2399",
+        "Culture": "France"
+    },
+    {
+        "Artists_Accession_Number": "2403",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2421",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "2423",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2439",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "2450",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "2455",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2467",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "2483",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "2489",
+        "Culture": "Chile"
+    },
+    {
+        "Artists_Accession_Number": "2493",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "2502",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "2506",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2506",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "2514",
+        "Culture": "South Africa"
+    },
+    {
+        "Artists_Accession_Number": "2518",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "2520",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "2521",
+        "Culture": "France"
+    },
+    {
+        "Artists_Accession_Number": "2522",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "2562",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "2573",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "2576",
+        "Culture": "Denmark"
+    },
+    {
+        "Artists_Accession_Number": "2578",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2580",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2580",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "2582",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2593",
+        "Culture": "France"
+    },
+    {
+        "Artists_Accession_Number": "2594",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "2612",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "2615",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "2624",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "2626",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "2641",
+        "Culture": "Argentina"
+    },
+    {
+        "Artists_Accession_Number": "2689",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "2692",
+        "Culture": "Czechoslovakia"
+    },
+    {
+        "Artists_Accession_Number": "2733",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "2742",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "2750",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2750",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "2752",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2754",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2763",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2769",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "2772",
+        "Culture": "Hawaii"
+    },
+    {
+        "Artists_Accession_Number": "2773",
+        "Culture": "Hawaii"
+    },
+    {
+        "Artists_Accession_Number": "2778",
+        "Culture": "Canada"
+    },
+    {
+        "Artists_Accession_Number": "2797",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "2809",
+        "Culture": "Scotland"
+    },
+    {
+        "Artists_Accession_Number": "2820",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2822",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "2829",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "2845",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "2856",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "2861",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "2866",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "2877",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "2878",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2888",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "2888",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2892",
+        "Culture": "Belgium"
+    },
+    {
+        "Artists_Accession_Number": "2905",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "2912",
+        "Culture": "Norway"
+    },
+    {
+        "Artists_Accession_Number": "2921",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "2925",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "2936",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "2945",
+        "Culture": "Tunisia"
+    },
+    {
+        "Artists_Accession_Number": "2961",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "2966",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "2979",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "2981",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "2989",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "3023",
+        "Culture": "Denmark"
+    },
+    {
+        "Artists_Accession_Number": "3042",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "3048",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3062",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3067",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3069",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "3073",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3092",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3095",
+        "Culture": "Canada"
+    },
+    {
+        "Artists_Accession_Number": "3098",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3104",
+        "Culture": "Norway"
+    },
+    {
+        "Artists_Accession_Number": "3113",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "3151",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "3155",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3165",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3183",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "3197",
+        "Culture": "France"
+    },
+    {
+        "Artists_Accession_Number": "3198",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "3205",
+        "Culture": "Venezuela"
+    },
+    {
+        "Artists_Accession_Number": "3207",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3210",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "3226",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "3236",
+        "Culture": "Hawaii"
+    },
+    {
+        "Artists_Accession_Number": "3242",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "3257",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3267",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3270",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "3271",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3281",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "3291",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3293",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "3295",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "3300",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3301",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "3303",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3313",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "3315",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "3332",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3338",
+        "Culture": "Denmark"
+    },
+    {
+        "Artists_Accession_Number": "3361",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3369",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3369",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "3371",
+        "Culture": "Israel"
+    },
+    {
+        "Artists_Accession_Number": "3385",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3396",
+        "Culture": "Cyprus"
+    },
+    {
+        "Artists_Accession_Number": "3401",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3413",
+        "Culture": "Denmark"
+    },
+    {
+        "Artists_Accession_Number": "3435",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3450",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "3453",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3488",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "3490",
+        "Culture": "Romania"
+    },
+    {
+        "Artists_Accession_Number": "3499",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "3500",
+        "Culture": "Canada"
+    },
+    {
+        "Artists_Accession_Number": "3501",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "3507",
+        "Culture": "Romania"
+    },
+    {
+        "Artists_Accession_Number": "3512",
+        "Culture": "Nigeria"
+    },
+    {
+        "Artists_Accession_Number": "3523",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "3525",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "3528",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3534",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "3538",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3544",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3545",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3552",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3557",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3558",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "3566",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3577",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "3591",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "3592",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "3595",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "3595",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3597",
+        "Culture": "Colombia"
+    },
+    {
+        "Artists_Accession_Number": "3600",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "3602",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3612",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3614",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3636",
+        "Culture": "Denmark"
+    },
+    {
+        "Artists_Accession_Number": "3637",
+        "Culture": "Denmark"
+    },
+    {
+        "Artists_Accession_Number": "3639",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "3640",
+        "Culture": "Colombia"
+    },
+    {
+        "Artists_Accession_Number": "3645",
+        "Culture": "Denmark"
+    },
+    {
+        "Artists_Accession_Number": "3646",
+        "Culture": "Ireland"
+    },
+    {
+        "Artists_Accession_Number": "3665",
+        "Culture": "India"
+    },
+    {
+        "Artists_Accession_Number": "3681",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3685",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3694",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3701",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3710",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3712",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3725",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3726",
+        "Culture": "Wales"
+    },
+    {
+        "Artists_Accession_Number": "3729",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3735",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3739",
+        "Culture": "Yugoslavia"
+    },
+    {
+        "Artists_Accession_Number": "3742",
+        "Culture": "France"
+    },
+    {
+        "Artists_Accession_Number": "3764",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "3768",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "3769",
+        "Culture": "Brazil"
+    },
+    {
+        "Artists_Accession_Number": "3774",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "3778",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3778",
+        "Culture": "Ukraine "
+    },
+    {
+        "Artists_Accession_Number": "3785",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3785",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "3807",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3808",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "3818",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3828",
+        "Culture": "Bangladesh"
+    },
+    {
+        "Artists_Accession_Number": "3840",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3851",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "3851",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3853",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3855",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "3857",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "3908",
+        "Culture": "Vietnam"
+    },
+    {
+        "Artists_Accession_Number": "3914",
+        "Culture": "Latvia"
+    },
+    {
+        "Artists_Accession_Number": "3923",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3937",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "3938",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "3942",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "3949",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "3955",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "3960",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3965",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "3978",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "3982",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "3984",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "3987",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "4003",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "4008",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "4033",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4061",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4061",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "4076",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "4084",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "4092",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "4095",
+        "Culture": "Cyprus"
+    },
+    {
+        "Artists_Accession_Number": "4104",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "4110",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4122",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "4137",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "4143",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "4161",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "4164",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "4175",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4198",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "4201",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4209",
+        "Culture": "Ireland"
+    },
+    {
+        "Artists_Accession_Number": "4216",
+        "Culture": "India"
+    },
+    {
+        "Artists_Accession_Number": "4235",
+        "Culture": "Netherlands"
+    },
+    {
+        "Artists_Accession_Number": "4240",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "4240",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "4249",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "4250",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "4251",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "4273",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "4282",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "4287",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "4313",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "4316",
+        "Culture": "Taiwan"
+    },
+    {
+        "Artists_Accession_Number": "4326",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "4342",
+        "Culture": "Wales"
+    },
+    {
+        "Artists_Accession_Number": "4344",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "4351",
+        "Culture": "Nigeria"
+    },
+    {
+        "Artists_Accession_Number": "4380",
+        "Culture": "Hong Kong"
+    },
+    {
+        "Artists_Accession_Number": "4404",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "4405",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "4407",
+        "Culture": "Yugoslavia"
+    },
+    {
+        "Artists_Accession_Number": "4408",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "4411",
+        "Culture": "Vietnam"
+    },
+    {
+        "Artists_Accession_Number": "4413",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4420",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4420",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "4425",
+        "Culture": "Argentina"
+    },
+    {
+        "Artists_Accession_Number": "4427",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "4433",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "4437",
+        "Culture": "Indonesia"
+    },
+    {
+        "Artists_Accession_Number": "4453",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4461",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4472",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "4484",
+        "Culture": "Estonia"
+    },
+    {
+        "Artists_Accession_Number": "4491",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4508",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4513",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4517",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4519",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "4524",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4527",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "4528",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "4529",
+        "Culture": "Greece"
+    },
+    {
+        "Artists_Accession_Number": "4545",
+        "Culture": "Yugoslavia"
+    },
+    {
+        "Artists_Accession_Number": "4546",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "4566",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "4572",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "4576",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "4586",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "4587",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "4608",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4634",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "4638",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "4650",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4676",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "4691",
+        "Culture": "Bohemia"
+    },
+    {
+        "Artists_Accession_Number": "4713",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "4746",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "4758",
+        "Culture": "Scotland"
+    },
+    {
+        "Artists_Accession_Number": "4763",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "4778",
+        "Culture": "Canada"
+    },
+    {
+        "Artists_Accession_Number": "4780",
+        "Culture": "Ireland"
+    },
+    {
+        "Artists_Accession_Number": "4789",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "4838",
+        "Culture": "Ireland"
+    },
+    {
+        "Artists_Accession_Number": "4878",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "4881",
+        "Culture": "Argentina"
+    },
+    {
+        "Artists_Accession_Number": "4891",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4892",
+        "Culture": "Czechoslovakia"
+    },
+    {
+        "Artists_Accession_Number": "4905",
+        "Culture": "Philippines"
+    },
+    {
+        "Artists_Accession_Number": "4912",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4913",
+        "Culture": "Spain"
+    },
+    {
+        "Artists_Accession_Number": "4925",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4933",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "4938",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "4939",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "4940",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4941",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "4952",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "4959",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4962",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "4976",
+        "Culture": "South Africa"
+    },
+    {
+        "Artists_Accession_Number": "4977",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5005",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "5006",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "5008",
+        "Culture": "Chile"
+    },
+    {
+        "Artists_Accession_Number": "5012",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5021",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "5035",
+        "Culture": "Colombia"
+    },
+    {
+        "Artists_Accession_Number": "5041",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "5044",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "5054",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "5070",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "5078",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "5088",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "5097",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5118",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "5124",
+        "Culture": "Czechoslovakia"
+    },
+    {
+        "Artists_Accession_Number": "5124",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5128",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5132",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5134",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5139",
+        "Culture": "Germany "
+    },
+    {
+        "Artists_Accession_Number": "5139",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5152",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5159",
+        "Culture": "Venezuela"
+    },
+    {
+        "Artists_Accession_Number": "5224",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "5225",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "5236",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5236",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "5242",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5245",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5252",
+        "Culture": "Yugoslavia"
+    },
+    {
+        "Artists_Accession_Number": "5257",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5265",
+        "Culture": "Switzerland"
+    },
+    {
+        "Artists_Accession_Number": "5266",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "5268",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5270",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "5314",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "5316",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5330",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5337",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "5360",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5365",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5371",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "5377",
+        "Culture": "Moravia"
+    },
+    {
+        "Artists_Accession_Number": "5394",
+        "Culture": "Ireland"
+    },
+    {
+        "Artists_Accession_Number": "5397",
+        "Culture": "Ireland"
+    },
+    {
+        "Artists_Accession_Number": "5407",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "5408",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "5413",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5443",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "5469",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5479",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5489",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5508",
+        "Culture": "Norway"
+    },
+    {
+        "Artists_Accession_Number": "5511",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "5562",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "5564",
+        "Culture": "Denmark"
+    },
+    {
+        "Artists_Accession_Number": "5570",
+        "Culture": "Venezuela"
+    },
+    {
+        "Artists_Accession_Number": "5575",
+        "Culture": "Yugoslavia"
+    },
+    {
+        "Artists_Accession_Number": "5576",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "5582",
+        "Culture": "Canada"
+    },
+    {
+        "Artists_Accession_Number": "5588",
+        "Culture": "Luxembourg"
+    },
+    {
+        "Artists_Accession_Number": "5596",
+        "Culture": "France"
+    },
+    {
+        "Artists_Accession_Number": "5602",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "5619",
+        "Culture": "Czechoslovakia"
+    },
+    {
+        "Artists_Accession_Number": "5620",
+        "Culture": "Sudan"
+    },
+    {
+        "Artists_Accession_Number": "5625",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "5638",
+        "Culture": "Nigeria"
+    },
+    {
+        "Artists_Accession_Number": "5639",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "5662",
+        "Culture": "Ireland"
+    },
+    {
+        "Artists_Accession_Number": "5668",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "5672",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5673",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "5677",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "5683",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5696",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5697",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "5698",
+        "Culture": "Denmark"
+    },
+    {
+        "Artists_Accession_Number": "5705",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5709",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "5715",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5718",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "5723",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "5726",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5738",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "5740",
+        "Culture": "Jamaica"
+    },
+    {
+        "Artists_Accession_Number": "5754",
+        "Culture": "Brazil"
+    },
+    {
+        "Artists_Accession_Number": "5756",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5756",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "5758",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5761",
+        "Culture": "Czechoslovakia"
+    },
+    {
+        "Artists_Accession_Number": "5767",
+        "Culture": "Norway"
+    },
+    {
+        "Artists_Accession_Number": "5778",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5785",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5792",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "5799",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5808",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "5809",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5812",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "5820",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5834",
+        "Culture": "Afghanistan"
+    },
+    {
+        "Artists_Accession_Number": "5839",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5857",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "5931",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5933",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5938",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5947",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5950",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5954",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "5973",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "5979",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5982",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "5985",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "5998",
+        "Culture": "Switzerland"
+    },
+    {
+        "Artists_Accession_Number": "6002",
+        "Culture": "Vietnam"
+    },
+    {
+        "Artists_Accession_Number": "6009",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6053",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "6062",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6070",
+        "Culture": "Indonesia"
+    },
+    {
+        "Artists_Accession_Number": "6114",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6119",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "6120",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "6125",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6140",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6140",
+        "Culture": "Spain"
+    },
+    {
+        "Artists_Accession_Number": "6152",
+        "Culture": "Belarus"
+    },
+    {
+        "Artists_Accession_Number": "6153",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6161",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6174",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6179",
+        "Culture": "Canada"
+    },
+    {
+        "Artists_Accession_Number": "6198",
+        "Culture": "Czechoslovakia"
+    },
+    {
+        "Artists_Accession_Number": "6203",
+        "Culture": "Czechoslovakia"
+    },
+    {
+        "Artists_Accession_Number": "6204",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6212",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6212",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "6213",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6221",
+        "Culture": "Netherlands"
+    },
+    {
+        "Artists_Accession_Number": "6225",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "6247",
+        "Culture": "Scotland"
+    },
+    {
+        "Artists_Accession_Number": "6255",
+        "Culture": "Greece"
+    },
+    {
+        "Artists_Accession_Number": "6262",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6270",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6273",
+        "Culture": "Canada"
+    },
+    {
+        "Artists_Accession_Number": "6286",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6298",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6301",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "6310",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "6318",
+        "Culture": "Yugoslavia"
+    },
+    {
+        "Artists_Accession_Number": "6320",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6327",
+        "Culture": "Chile"
+    },
+    {
+        "Artists_Accession_Number": "6330",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "6336",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6337",
+        "Culture": "Armenia"
+    },
+    {
+        "Artists_Accession_Number": "6347",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "6349",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6357",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6372",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "6390",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "6390",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6391",
+        "Culture": "Yugoslavia"
+    },
+    {
+        "Artists_Accession_Number": "6407",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "6417",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "6429",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6445",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "6446",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "6453",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6462",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "6470",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "6483",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6497",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "6505",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "6526",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "6546",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6549",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6549",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "6550",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6569",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "6589",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "6601",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "6604",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "6606",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "6614",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6618",
+        "Culture": "Czechoslovakia"
+    },
+    {
+        "Artists_Accession_Number": "6623",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6624",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6635",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "6655",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6669",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "6669",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6670",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6673",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6676",
+        "Culture": "Norway"
+    },
+    {
+        "Artists_Accession_Number": "6682",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6684",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6692",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "6698",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "6701",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6708",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6709",
+        "Culture": "Israel"
+    },
+    {
+        "Artists_Accession_Number": "6711",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6718",
+        "Culture": "Bulgaria"
+    },
+    {
+        "Artists_Accession_Number": "6723",
+        "Culture": "India"
+    },
+    {
+        "Artists_Accession_Number": "6727",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6728",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6734",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "6734",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6747",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "6753",
+        "Culture": "Spain"
+    },
+    {
+        "Artists_Accession_Number": "6756",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "6773",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "6792",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6792",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "6797",
+        "Culture": "Philippines"
+    },
+    {
+        "Artists_Accession_Number": "6813",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6838",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6855",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6860",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "6869",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6873",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6878",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6884",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6923",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6926",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6932",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "6948",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "6962",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6968",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6969",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7006",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "7010",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7013",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7018",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7018",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "7029",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7034",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7042",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7050",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "7050",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7051",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "7052",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7059",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7060",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7067",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "7077",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7086",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "7101",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7119",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7148",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "7156",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7165",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "7174",
+        "Culture": "Scotland"
+    },
+    {
+        "Artists_Accession_Number": "7175",
+        "Culture": "Spain"
+    },
+    {
+        "Artists_Accession_Number": "7188",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7195",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7268",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "7269",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "7278",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "7279",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "7280",
+        "Culture": "Philippines"
+    },
+    {
+        "Artists_Accession_Number": "7281",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "7290",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7291",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7291",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "7292",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "7309",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7312",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7316",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7317",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7335",
+        "Culture": "Apache"
+    },
+    {
+        "Artists_Accession_Number": "7335",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "7336",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "7341",
+        "Culture": "Greece"
+    },
+    {
+        "Artists_Accession_Number": "7348",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7349",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7355",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "7379",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7390",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7416",
+        "Culture": "Czechoslovakia"
+    },
+    {
+        "Artists_Accession_Number": "7419",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7435",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "7449",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7454",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "7457",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "7466",
+        "Culture": "Denmark"
+    },
+    {
+        "Artists_Accession_Number": "7472",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7484",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "7485",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7490",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7494",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7522",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "7524",
+        "Culture": "Ireland"
+    },
+    {
+        "Artists_Accession_Number": "7545",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7569",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7574",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "7582",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7588",
+        "Culture": "Israel"
+    },
+    {
+        "Artists_Accession_Number": "7588",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7589",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7590",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "7590",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7591",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7599",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "7603",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "7610",
+        "Culture": "Czechoslovakia"
+    },
+    {
+        "Artists_Accession_Number": "7631",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "7659",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7667",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "7667",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "7674",
+        "Culture": "Latvia"
+    },
+    {
+        "Artists_Accession_Number": "7680",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7682",
+        "Culture": "Latvia"
+    },
+    {
+        "Artists_Accession_Number": "7692",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7695",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7696",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "7719",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "7730",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "7735",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7737",
+        "Culture": "Hawaii"
+    },
+    {
+        "Artists_Accession_Number": "7739",
+        "Culture": "Norway"
+    },
+    {
+        "Artists_Accession_Number": "7744",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "7757",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7766",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "7799",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "7800",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "7801",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7808",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7808",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "7841",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7852",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7857",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "7875",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "7892",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7893",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "7894",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7903",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "7905",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "7910",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "7911",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "7934",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "7960",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "7962",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "7966",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7968",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8006",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "8019",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8021",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8028",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8040",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8068",
+        "Culture": "Germany (?)"
+    },
+    {
+        "Artists_Accession_Number": "8069",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8088",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8092",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8096",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "8098",
+        "Culture": "Czechoslovakia"
+    },
+    {
+        "Artists_Accession_Number": "8098",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8100",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8107",
+        "Culture": "Ireland"
+    },
+    {
+        "Artists_Accession_Number": "8108",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8110",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "8112",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8145",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "8150",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8159",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8180",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8194",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8209",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8212",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "8244",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8245",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8250",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8257",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8258",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8267",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8271",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8276",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8279",
+        "Culture": "Venezuela"
+    },
+    {
+        "Artists_Accession_Number": "8283",
+        "Culture": "Egypt"
+    },
+    {
+        "Artists_Accession_Number": "8291",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8293",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8301",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8308",
+        "Culture": "Czechoslovakia"
+    },
+    {
+        "Artists_Accession_Number": "8309",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8310",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "8348",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "8354",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "8368",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8382",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "8400",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "8411",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "8413",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8421",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "8423",
+        "Culture": "Turkey"
+    },
+    {
+        "Artists_Accession_Number": "8429",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8429",
+        "Culture": "Navajo"
+    },
+    {
+        "Artists_Accession_Number": "8430",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8430",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "8431",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8431",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "8439",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "8452",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8461",
+        "Culture": "Armenia"
+    },
+    {
+        "Artists_Accession_Number": "8472",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "8484",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "8487",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8489",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "8492",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "8494",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "8495",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "8496",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "8498",
+        "Culture": "Yugoslavia"
+    },
+    {
+        "Artists_Accession_Number": "8516",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "8529",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8531",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "8535",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8537",
+        "Culture": "Brazil"
+    },
+    {
+        "Artists_Accession_Number": "8540",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "8571",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8576",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8579",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8590",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8620",
+        "Culture": "Czechoslovakia"
+    },
+    {
+        "Artists_Accession_Number": "8623",
+        "Culture": "Romania"
+    },
+    {
+        "Artists_Accession_Number": "8628",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8629",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8629",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "8631",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8633",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "8634",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "8636",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "8640",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "8640",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "8643",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "8647",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8649",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8652",
+        "Culture": "Greece"
+    },
+    {
+        "Artists_Accession_Number": "8664",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8683",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8689",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "8697",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8698",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8703",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8704",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8708",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8709",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8713",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8737",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8788",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8790",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8821",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8839",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8912",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "8972",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8973",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8999",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "9044",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "9049",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "9075",
+        "Culture": "Armenia"
+    },
+    {
+        "Artists_Accession_Number": "9075",
+        "Culture": "Bohemia"
+    },
+    {
+        "Artists_Accession_Number": "9075",
+        "Culture": "Brazil"
+    },
+    {
+        "Artists_Accession_Number": "9077",
+        "Culture": "Wales"
+    },
+    {
+        "Artists_Accession_Number": "9080",
+        "Culture": "Brazil"
+    },
+    {
+        "Artists_Accession_Number": "9102",
+        "Culture": "Armenia"
+    },
+    {
+        "Artists_Accession_Number": "9106",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "9107",
+        "Culture": "Romania"
+    },
+    {
+        "Artists_Accession_Number": "9120",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "9162",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "9163",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "9167",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "9173",
+        "Culture": "Iraq"
+    },
+    {
+        "Artists_Accession_Number": "9179",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "9203",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "9262",
+        "Culture": "Christian"
+    },
+    {
+        "Artists_Accession_Number": "9355",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "9381",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "9406",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "9407",
+        "Culture": "Colombia"
+    },
+    {
+        "Artists_Accession_Number": "9408",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "9409",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "9428",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "9434",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "9550",
+        "Culture": "South Korea"
+    },
+    {
+        "Artists_Accession_Number": "9590",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "9591",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "9599",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "9723",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "9763",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10095",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "10192",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "10220",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10281",
+        "Culture": "Colombia"
+    },
+    {
+        "Artists_Accession_Number": "10334",
+        "Culture": "Belgium"
+    },
+    {
+        "Artists_Accession_Number": "10479",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10483",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10502",
+        "Culture": "Haiti"
+    },
+    {
+        "Artists_Accession_Number": "10685",
+        "Culture": "Philippines"
+    },
+    {
+        "Artists_Accession_Number": "10720",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10723",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10736",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10771",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10772",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10845",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "11078",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "11129",
+        "Culture": "Turkey"
+    },
+    {
+        "Artists_Accession_Number": "11142",
+        "Culture": "Spain"
+    },
+    {
+        "Artists_Accession_Number": "11153",
+        "Culture": "France"
+    },
+    {
+        "Artists_Accession_Number": "11214",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11292",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11308",
+        "Culture": "Nigeria"
+    },
+    {
+        "Artists_Accession_Number": "11354",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11378",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "11406",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "11429",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11459",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11478",
+        "Culture": "Philippines"
+    },
+    {
+        "Artists_Accession_Number": "11485",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "11492",
+        "Culture": "Yugoslavia"
+    },
+    {
+        "Artists_Accession_Number": "11517",
+        "Culture": "Iran"
+    },
+    {
+        "Artists_Accession_Number": "11526",
+        "Culture": "Turkey"
+    },
+    {
+        "Artists_Accession_Number": "11564",
+        "Culture": "Nepal"
+    },
+    {
+        "Artists_Accession_Number": "11601",
+        "Culture": "Canada"
+    },
+    {
+        "Artists_Accession_Number": "11618",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11628",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11639",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "11640",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "11642",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "11646",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "11695",
+        "Culture": "Nicaragua"
+    },
+    {
+        "Artists_Accession_Number": "11696",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "11729",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "11730",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "11813",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11979",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11980",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11981",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11982",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11983",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11984",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11985",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11986",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11987",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11988",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11989",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11990",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11991",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11993",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11994",
+        "Culture": "Bulgaria"
+    },
+    {
+        "Artists_Accession_Number": "11997",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11997",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12001",
+        "Culture": "Franco-American"
+    },
+    {
+        "Artists_Accession_Number": "12008",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12010",
+        "Culture": "Morocco"
+    },
+    {
+        "Artists_Accession_Number": "12015",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12016",
+        "Culture": "Bulgaria"
+    },
+    {
+        "Artists_Accession_Number": "12018",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12035",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12039",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12045",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "12078",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12078",
+        "Culture": "Cameroon"
+    },
+    {
+        "Artists_Accession_Number": "12080",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "1900",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12084",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12085",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12086",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12087",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12092",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "12093",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "2213",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "4764",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "9261",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12104",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "2478",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "2494",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11364",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11600",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "10146",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12106",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12111",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12111",
+        "Culture": "Inca"
+    },
+    {
+        "Artists_Accession_Number": "12114",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12115",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12130",
+        "Culture": "Colombia"
+    },
+    {
+        "Artists_Accession_Number": "2903",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12131",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12139",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "12141",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "12143",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12144",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12145",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "9414",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12146",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "9709",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11725",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12147",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12148",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12149",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12150",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12151",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12154",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12156",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12159",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10887",
+        "Culture": "Bulgaria"
+    },
+    {
+        "Artists_Accession_Number": "12164",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12169",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "12170",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12171",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12176",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12178",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12178",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "3872",
+        "Culture": "Armenia"
+    },
+    {
+        "Artists_Accession_Number": "12183",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "12184",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "4094",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12188",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12190",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12191",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "8884",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "8884",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "4349",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "9712",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "4351",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "9982",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "9982",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "8928",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "4845",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "12197",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12197",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "8884",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12198",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "4913",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "4971",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "11210",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "5031",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "11225",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5087",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "5103",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "5103",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "5122",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "5216",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5216",
+        "Culture": "Haiti"
+    },
+    {
+        "Artists_Accession_Number": "9216",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12215",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "12218",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "12218",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12220",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5351",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "10503",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "10503",
+        "Culture": "Switzerland"
+    },
+    {
+        "Artists_Accession_Number": "12222",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5579",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "12230",
+        "Culture": "Kenya"
+    },
+    {
+        "Artists_Accession_Number": "5717",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5722",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "5727",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11929",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "5748",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "5748",
+        "Culture": "Belarus"
+    },
+    {
+        "Artists_Accession_Number": "5765",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "12233",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "12233",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "5816",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "9784",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11604",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11604",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "12240",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "5929",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "5929",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "6152",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "12244",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6237",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11078",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12246",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6368",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "6369",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12255",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12256",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12256",
+        "Culture": "Venezuela"
+    },
+    {
+        "Artists_Accession_Number": "12257",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10808",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6637",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "6637",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12262",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11418",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "6621",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11561",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6706",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "12265",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12267",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12267",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "11867",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12274",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12275",
+        "Culture": "Thailand"
+    },
+    {
+        "Artists_Accession_Number": "12276",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7268",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "7279",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11478",
+        "Culture": "Asian/Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "12286",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "7374",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12289",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12291",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "9357",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12293",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "12295",
+        "Culture": "Philippines"
+    },
+    {
+        "Artists_Accession_Number": "12295",
+        "Culture": "Asian/Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "7696",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12298",
+        "Culture": "Yugoslavia"
+    },
+    {
+        "Artists_Accession_Number": "12298",
+        "Culture": "Serbia"
+    },
+    {
+        "Artists_Accession_Number": "7747",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "12301",
+        "Culture": "Iran"
+    },
+    {
+        "Artists_Accession_Number": "7780",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12302",
+        "Culture": "Singapore"
+    },
+    {
+        "Artists_Accession_Number": "12306",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "12157",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8578",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12308",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11538",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12309",
+        "Culture": "African american"
+    },
+    {
+        "Artists_Accession_Number": "12311",
+        "Culture": "Pakistan"
+    },
+    {
+        "Artists_Accession_Number": "8793",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "8793",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11876",
+        "Culture": "African America"
+    },
+    {
+        "Artists_Accession_Number": "12313",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "12315",
+        "Culture": "Greece"
+    },
+    {
+        "Artists_Accession_Number": "12317",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12318",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8066",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1067",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12319",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12320",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "12321",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11340",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12324",
+        "Culture": "Bulgaria"
+    },
+    {
+        "Artists_Accession_Number": "12325",
+        "Culture": "Bulgaria"
+    },
+    {
+        "Artists_Accession_Number": "12326",
+        "Culture": "Bulgaria"
+    },
+    {
+        "Artists_Accession_Number": "12327",
+        "Culture": "Bulgaria"
+    },
+    {
+        "Artists_Accession_Number": "11289",
+        "Culture": "Bulgaria"
+    },
+    {
+        "Artists_Accession_Number": "12328",
+        "Culture": "Bulgaria"
+    },
+    {
+        "Artists_Accession_Number": "12329",
+        "Culture": "Bulgaria"
+    },
+    {
+        "Artists_Accession_Number": "12330",
+        "Culture": "Bulgaria"
+    },
+    {
+        "Artists_Accession_Number": "10294",
+        "Culture": "Bulgaria"
+    },
+    {
+        "Artists_Accession_Number": "11",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "10694",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "26",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12334",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10366",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11348",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "55",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11506",
+        "Culture": "Nigeria"
+    },
+    {
+        "Artists_Accession_Number": "72",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "84",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "6879",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "87",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "10684",
+        "Culture": "India"
+    },
+    {
+        "Artists_Accession_Number": "106",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "106",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11885",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "114",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "10894",
+        "Culture": "Iraq"
+    },
+    {
+        "Artists_Accession_Number": "10423",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "10423",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "129",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "142",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "11453",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "12340",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1211",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "176",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "3063",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "3063",
+        "Culture": "Colombia"
+    },
+    {
+        "Artists_Accession_Number": "10843",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "10843",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "191",
+        "Culture": "Asia / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "198",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "198",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "11902",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "199",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "205",
+        "Culture": "Canada"
+    },
+    {
+        "Artists_Accession_Number": "11776",
+        "Culture": "Albania"
+    },
+    {
+        "Artists_Accession_Number": "208",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "217",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11131",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11131",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "9453",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12140",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "10281",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "9521",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "10247",
+        "Culture": "Argentina"
+    },
+    {
+        "Artists_Accession_Number": "345",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "334",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "341",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "370",
+        "Culture": "Greece"
+    },
+    {
+        "Artists_Accession_Number": "373",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "377",
+        "Culture": "Palestine"
+    },
+    {
+        "Artists_Accession_Number": "12347",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "11193",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "9976",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "419",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "10269",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "10269",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "429",
+        "Culture": "Itally"
+    },
+    {
+        "Artists_Accession_Number": "12359",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "569",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "575",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "12369",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "12369",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "652",
+        "Culture": "Luxenbourg"
+    },
+    {
+        "Artists_Accession_Number": "8986",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "748",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "2549",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1697",
+        "Culture": "Asian / Pacific Island"
+    },
+    {
+        "Artists_Accession_Number": "9089",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10498",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12379",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12380",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12381",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10216",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12385",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12392",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11632",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10731",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "11920",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12411",
+        "Culture": "Mexican-American"
+    },
+    {
+        "Artists_Accession_Number": "11198",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "945",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "964",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "1009",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11772",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "9407",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "850",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "1062",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "11134",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "10420",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "10399",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "10399",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "10289",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1168",
+        "Culture": "Armenia"
+    },
+    {
+        "Artists_Accession_Number": "12454",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "11295",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "11295",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12459",
+        "Culture": "India"
+    },
+    {
+        "Artists_Accession_Number": "12460",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "12464",
+        "Culture": "Greece"
+    },
+    {
+        "Artists_Accession_Number": "12465",
+        "Culture": "Iran"
+    },
+    {
+        "Artists_Accession_Number": "12466",
+        "Culture": "Turkey"
+    },
+    {
+        "Artists_Accession_Number": "12473",
+        "Culture": "Croatia"
+    },
+    {
+        "Artists_Accession_Number": "12478",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "2829",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "6832",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "12483",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "12493",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "10558",
+        "Culture": "Venezuela"
+    },
+    {
+        "Artists_Accession_Number": "1189",
+        "Culture": "Latvia"
+    },
+    {
+        "Artists_Accession_Number": "9441",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "1203",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "1204",
+        "Culture": "Asian/Pacific Isalnds"
+    },
+    {
+        "Artists_Accession_Number": "9624",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "12513",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10096",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12518",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12518",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "10662",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "9717",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "1297",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "1300",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1319",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "12520",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11893",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12521",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12523",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1370",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "1376",
+        "Culture": "Asian/Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "12525",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1399",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "9184",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12526",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10290",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11611",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11847",
+        "Culture": "Australia"
+    },
+    {
+        "Artists_Accession_Number": "9238",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "1576",
+        "Culture": "Lithiania"
+    },
+    {
+        "Artists_Accession_Number": "12542",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "12542",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "12544",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "12550",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "10370",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "1686",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12552",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12554",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "2562",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "1745",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "2563",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10376",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "10170",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "11312",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1943",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "1950",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11886",
+        "Culture": "Morocco"
+    },
+    {
+        "Artists_Accession_Number": "10861",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "2075",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12560",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "2111",
+        "Culture": "Norway"
+    },
+    {
+        "Artists_Accession_Number": "12561",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "2159",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "2267",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "6052",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11745",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11395",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11400",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "9261",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "11130",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "2492",
+        "Culture": "Canada"
+    },
+    {
+        "Artists_Accession_Number": "10209",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "10340",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "2496",
+        "Culture": "Canada"
+    },
+    {
+        "Artists_Accession_Number": "12580",
+        "Culture": "Argentina"
+    },
+    {
+        "Artists_Accession_Number": "12582",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "10636",
+        "Culture": "Israel"
+    },
+    {
+        "Artists_Accession_Number": "2734",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "12584",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "12587",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12588",
+        "Culture": "Taiwan"
+    },
+    {
+        "Artists_Accession_Number": "12589",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11950",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12590",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12590",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "12591",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "2774",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "10390",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "2887",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "2893",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "12599",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "2904",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "2922",
+        "Culture": "Turkey"
+    },
+    {
+        "Artists_Accession_Number": "10816",
+        "Culture": "India"
+    },
+    {
+        "Artists_Accession_Number": "11966",
+        "Culture": "Colombia"
+    },
+    {
+        "Artists_Accession_Number": "3020",
+        "Culture": "Finland"
+    },
+    {
+        "Artists_Accession_Number": "4094",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "3040",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3057",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "9728",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12621",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "12624",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12624",
+        "Culture": "Jamaica"
+    },
+    {
+        "Artists_Accession_Number": "12629",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "12637",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "12640",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12644",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3190",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "3199",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11135",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12654",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "3266",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "3330",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3348",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3353",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3358",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3387",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3403",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3409",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10200",
+        "Culture": "Taiwan"
+    },
+    {
+        "Artists_Accession_Number": "10721",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3458",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12664",
+        "Culture": "Iran"
+    },
+    {
+        "Artists_Accession_Number": "10690",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "12665",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "12666",
+        "Culture": "Romania"
+    },
+    {
+        "Artists_Accession_Number": "3555",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "11582",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "3700",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "3727",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "9383",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10310",
+        "Culture": "Yugoslavia"
+    },
+    {
+        "Artists_Accession_Number": "11948",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "12692",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "7243",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11577",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "3974",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "3981",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "10251",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "10245",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "4008",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "4015",
+        "Culture": "Greece"
+    },
+    {
+        "Artists_Accession_Number": "4023",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "4102",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "4117",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "4135",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "10781",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "4154",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "12694",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12699",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4237",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "4254",
+        "Culture": "Croatia"
+    },
+    {
+        "Artists_Accession_Number": "10193",
+        "Culture": "India"
+    },
+    {
+        "Artists_Accession_Number": "12004",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "12152",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10300",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "10199",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "10691",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "10693",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "12739",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "10355",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "11924",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11570",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "10488",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "8990",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "12745",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4509",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4510",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4514",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "9711",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8987",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "4559",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "4569",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "10802",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "4646",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12762",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "4861",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "10188",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "10201",
+        "Culture": "Argentina"
+    },
+    {
+        "Artists_Accession_Number": "4913",
+        "Culture": "Columbia"
+    },
+    {
+        "Artists_Accession_Number": "4972",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "4994",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10713",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "5048",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10796",
+        "Culture": "Haiti"
+    },
+    {
+        "Artists_Accession_Number": "5066",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "4710",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12782",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "4716",
+        "Culture": "Scotland"
+    },
+    {
+        "Artists_Accession_Number": "10823",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "4742",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "4797",
+        "Culture": "Canada"
+    },
+    {
+        "Artists_Accession_Number": "4797",
+        "Culture": "Ireland"
+    },
+    {
+        "Artists_Accession_Number": "4833",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10377",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "5101",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "5104",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "5104",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "5109",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "5117",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5207",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5272",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12798",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "12801",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "12802",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "5306",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "5307",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "10643",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "5359",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11747",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5420",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12806",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "5453",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "5455",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "5468",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "5473",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "5476",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "11513",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "10512",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5573",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12809",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "12809",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12811",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12812",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5595",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "5616",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "9625",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "12819",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "11929",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "12825",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "5669",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "5716",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "5716",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "5747",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "5747",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "11742",
+        "Culture": "Ukraine"
+    },
+    {
+        "Artists_Accession_Number": "10977",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5832",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11178",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "5869",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "5928",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12835",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12837",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12840",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12841",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12845",
+        "Culture": "Spain"
+    },
+    {
+        "Artists_Accession_Number": "12845",
+        "Culture": "France"
+    },
+    {
+        "Artists_Accession_Number": "11175",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "2621",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "6204",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "5031",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "6236",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6277",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "12852",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6328",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "6328",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "10398",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "10398",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "10511",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "6369",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "12072",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "11836",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "10302",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12857",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10208",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "6537",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "6589",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "6599",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12865",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "8982",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "12155",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8985",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "12874",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "11962",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "11962",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "6811",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "6816",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "10542",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "6851",
+        "Culture": "Ireland"
+    },
+    {
+        "Artists_Accession_Number": "6859",
+        "Culture": "Spain"
+    },
+    {
+        "Artists_Accession_Number": "6870",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7041",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12883",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "7276",
+        "Culture": "African Ameican"
+    },
+    {
+        "Artists_Accession_Number": "7284",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7287",
+        "Culture": "Argentina"
+    },
+    {
+        "Artists_Accession_Number": "11460",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7289",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7293",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "9319",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11419",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7359",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "7360",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "10654",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7414",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11645",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "10641",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "8967",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "7460",
+        "Culture": "Canada"
+    },
+    {
+        "Artists_Accession_Number": "9357",
+        "Culture": "Puerto Rico"
+    },
+    {
+        "Artists_Accession_Number": "7473",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "7490",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "7521",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "12896",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "11835",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "7572",
+        "Culture": "Romania"
+    },
+    {
+        "Artists_Accession_Number": "9541",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "9019",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "7652",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "8988",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "11800",
+        "Culture": "Malasia"
+    },
+    {
+        "Artists_Accession_Number": "8989",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "7781",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "7782",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "7784",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "7798",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "11317",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "9944",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10737",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11895",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10317",
+        "Culture": "Peru"
+    },
+    {
+        "Artists_Accession_Number": "10317",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "10485",
+        "Culture": "Czechoslovakia"
+    },
+    {
+        "Artists_Accession_Number": "8595",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "8614",
+        "Culture": "Bulgaria"
+    },
+    {
+        "Artists_Accession_Number": "11760",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11760",
+        "Culture": "Sierra Leone"
+    },
+    {
+        "Artists_Accession_Number": "8632",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "10813",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "10490",
+        "Culture": "Switzerland"
+    },
+    {
+        "Artists_Accession_Number": "9420",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "8746",
+        "Culture": "Colombia"
+    },
+    {
+        "Artists_Accession_Number": "8750",
+        "Culture": "Romania"
+    },
+    {
+        "Artists_Accession_Number": "8750",
+        "Culture": "Yugoslavia"
+    },
+    {
+        "Artists_Accession_Number": "8752",
+        "Culture": "Ecuador"
+    },
+    {
+        "Artists_Accession_Number": "8752",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "8758",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "12158",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10406",
+        "Culture": "Colombia"
+    },
+    {
+        "Artists_Accession_Number": "10406",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "8763",
+        "Culture": "Lithuiana"
+    },
+    {
+        "Artists_Accession_Number": "8767",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "8770",
+        "Culture": "Netherlands"
+    },
+    {
+        "Artists_Accession_Number": "8773",
+        "Culture": "Belgium"
+    },
+    {
+        "Artists_Accession_Number": "8776",
+        "Culture": "Netherlands"
+    },
+    {
+        "Artists_Accession_Number": "8777",
+        "Culture": "Netherlands"
+    },
+    {
+        "Artists_Accession_Number": "8796",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "8800",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "8802",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "8803",
+        "Culture": "Czech"
+    },
+    {
+        "Artists_Accession_Number": "8805",
+        "Culture": "Cuba"
+    },
+    {
+        "Artists_Accession_Number": "8805",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "8808",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "10095",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "8816",
+        "Culture": "Lithiania"
+    },
+    {
+        "Artists_Accession_Number": "9042",
+        "Culture": "India"
+    },
+    {
+        "Artists_Accession_Number": "8819",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "9508",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "8824",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "7908",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "8991",
+        "Culture": "Sweden"
+    },
+    {
+        "Artists_Accession_Number": "7944",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "12775",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "7971",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "7975",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "7999",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "7999",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "8000",
+        "Culture": "Canada"
+    },
+    {
+        "Artists_Accession_Number": "8003",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "8003",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "12855",
+        "Culture": "Asian / Pacifc Islander"
+    },
+    {
+        "Artists_Accession_Number": "12855",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "8017",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8016",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8033",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "8037",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "8048",
+        "Culture": "Scotland"
+    },
+    {
+        "Artists_Accession_Number": "11323",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8063",
+        "Culture": "Switzerland"
+    },
+    {
+        "Artists_Accession_Number": "8069",
+        "Culture": "Belize"
+    },
+    {
+        "Artists_Accession_Number": "8081",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "8081",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "8094",
+        "Culture": "Austria"
+    },
+    {
+        "Artists_Accession_Number": "8096",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8097",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "12927",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8119",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8196",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8200",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "8204",
+        "Culture": "France"
+    },
+    {
+        "Artists_Accession_Number": "8225",
+        "Culture": "England"
+    },
+    {
+        "Artists_Accession_Number": "8229",
+        "Culture": "France"
+    },
+    {
+        "Artists_Accession_Number": "9560",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10701",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8287",
+        "Culture": "African Americn"
+    },
+    {
+        "Artists_Accession_Number": "8291",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "12114",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "12153",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8338",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8346",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "8939",
+        "Culture": "Singapore"
+    },
+    {
+        "Artists_Accession_Number": "9764",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8379",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10303",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8388",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8402",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8403",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "8410",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "8410",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "10697",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "10304",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "10726",
+        "Culture": "Singapore"
+    },
+    {
+        "Artists_Accession_Number": "8427",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "12942",
+        "Culture": "Taiwan"
+    },
+    {
+        "Artists_Accession_Number": "8430",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "8909",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "10888",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "8438",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "11374",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "10687",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "11407",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "9531",
+        "Culture": "Croatia"
+    },
+    {
+        "Artists_Accession_Number": "8476",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "10688",
+        "Culture": "China"
+    },
+    {
+        "Artists_Accession_Number": "11770",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11770",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "12819",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "9392",
+        "Culture": "Latvia"
+    },
+    {
+        "Artists_Accession_Number": "836",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12974",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "10078",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "10077",
+        "Culture": "Viet Nam"
+    },
+    {
+        "Artists_Accession_Number": "10435",
+        "Culture": "India"
+    },
+    {
+        "Artists_Accession_Number": "10435",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "11839",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "3200",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "3200",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "11511",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "11286",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "357",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "12993",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12997",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13010",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "13011",
+        "Culture": "Iran"
+    },
+    {
+        "Artists_Accession_Number": "9410",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "13025",
+        "Culture": "Mexico"
+    },
+    {
+        "Artists_Accession_Number": "13029",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "13042",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13051",
+        "Culture": "Iran"
+    },
+    {
+        "Artists_Accession_Number": "10218",
+        "Culture": "Jamaica"
+    },
+    {
+        "Artists_Accession_Number": "7726",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "12871",
+        "Culture": "Denmark"
+    },
+    {
+        "Artists_Accession_Number": "13069",
+        "Culture": "Latvia"
+    },
+    {
+        "Artists_Accession_Number": "13072",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13076",
+        "Culture": "India"
+    },
+    {
+        "Artists_Accession_Number": "4486",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "13084",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "3393",
+        "Culture": "Asian/Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "13096",
+        "Culture": "Venezuela"
+    },
+    {
+        "Artists_Accession_Number": "3419",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "3520",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "3520",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "3524",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "13108",
+        "Culture": "Ecuador"
+    },
+    {
+        "Artists_Accession_Number": "13108",
+        "Culture": "Hispanic"
+    },
+    {
+        "Artists_Accession_Number": "13113",
+        "Culture": "India"
+    },
+    {
+        "Artists_Accession_Number": "13116",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13035",
+        "Culture": "Iran"
+    },
+    {
+        "Artists_Accession_Number": "13125",
+        "Culture": "Bulgaria"
+    },
+    {
+        "Artists_Accession_Number": "13130",
+        "Culture": "Singapore"
+    },
+    {
+        "Artists_Accession_Number": "13130",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "13131",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "13131",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "13132",
+        "Culture": "Iran"
+    },
+    {
+        "Artists_Accession_Number": "13139",
+        "Culture": "Israel"
+    },
+    {
+        "Artists_Accession_Number": "13145",
+        "Culture": "Jewish"
+    },
+    {
+        "Artists_Accession_Number": "13148",
+        "Culture": "Turkey"
+    },
+    {
+        "Artists_Accession_Number": "4492",
+        "Culture": "Canada"
+    },
+    {
+        "Artists_Accession_Number": "13159",
+        "Culture": "Spain"
+    },
+    {
+        "Artists_Accession_Number": "3533",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "13181",
+        "Culture": "Lithuania"
+    },
+    {
+        "Artists_Accession_Number": "13197",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "10702",
+        "Culture": "India"
+    },
+    {
+        "Artists_Accession_Number": "3511",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "13213",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "3941",
+        "Culture": "Poland"
+    },
+    {
+        "Artists_Accession_Number": "3980",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "13241",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1156",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13244",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "942",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "1155",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13223",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "13277",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13297",
+        "Culture": "Japan"
+    },
+    {
+        "Artists_Accession_Number": "13342",
+        "Culture": "Hungary"
+    },
+    {
+        "Artists_Accession_Number": "13373",
+        "Culture": "Czechoslovakia"
+    },
+    {
+        "Artists_Accession_Number": "13379",
+        "Culture": "Denmark"
+    },
+    {
+        "Artists_Accession_Number": "13387",
+        "Culture": "Germany"
+    },
+    {
+        "Artists_Accession_Number": "13431",
+        "Culture": "Russia"
+    },
+    {
+        "Artists_Accession_Number": "2738",
+        "Culture": "Spain"
+    },
+    {
+        "Artists_Accession_Number": "13444",
+        "Culture": "Romania"
+    },
+    {
+        "Artists_Accession_Number": "13448",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13449",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13450",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13451",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13452",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13453",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13454",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13456",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13470",
+        "Culture": "Nigeria"
+    },
+    {
+        "Artists_Accession_Number": "13470",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13480",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13487",
+        "Culture": "Native American"
+    },
+    {
+        "Artists_Accession_Number": "13489",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13506",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13507",
+        "Culture": "Italy"
+    },
+    {
+        "Artists_Accession_Number": "13515",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13519",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "11721",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "12995",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "4602",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "13589",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "5097",
+        "Culture": "Netherlands"
+    },
+    {
+        "Artists_Accession_Number": "5637",
+        "Culture": "Netherlands"
+    },
+    {
+        "Artists_Accession_Number": "12089",
+        "Culture": "Philippines"
+    },
+    {
+        "Artists_Accession_Number": "12179",
+        "Culture": "Korea"
+    },
+    {
+        "Artists_Accession_Number": "12302",
+        "Culture": "Asian / Pacific Islander"
+    },
+    {
+        "Artists_Accession_Number": "11943",
+        "Culture": "African American"
+    },
+    {
+        "Artists_Accession_Number": "10855",
+        "Culture": "Hispanic"
+    }
+]

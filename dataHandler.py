@@ -10,7 +10,7 @@ while i < 15000:
   i += 1
 
 monos = {}
-    
+    # sudo mysql -u root caf -e "select * from Artist_Information" > artist_info.txt 
 csvArtist_Information  = r'./conversion/Artist_Information.csv'
 csvLink_Art_Terms  = r'./conversion/Link_Art_Terms.csv'
 csvLink_Cultures  = r'./conversion/Link_Cultures.csv'
@@ -64,6 +64,8 @@ with open(csvUnique_monographs, encoding='utf-8') as lf:
             "year": a["Year"]
         }
 
+# sudo mysql -u root caf -e "select * from Artist_Information where ID = 1" > artist_info.txt
+
 with open(csvArtist_Information, encoding='utf-8') as ai: 
     artistData = csv.DictReader(ai)
     for a in artistData: 
@@ -76,15 +78,17 @@ with open(csvArtist_Information, encoding='utf-8') as ai:
             caaJson[accno]["notes"] = a["Notes"]
             caaJson[accno]["file"] = a["File"]
             caaJson[accno]["slides"] = a["Slides"]
-            caaJson[accno]["videos"] = a["Video"]
+            caaJson[accno]["videos"] = a["Video(s)"]
             caaJson[accno]["gender"] = a["Gender"]
-            caaJson[accno]["resume"] = a["Resume"]
+            caaJson[accno]["resume"] = a["Resume/Vita"]
             caaJson[accno]["artistStatement"] = a["Artist_Statement"]
             caaJson[accno]["galleryNotice"] = a["Gallery_Notice"]
             caaJson[accno]["article"] = a["Article"]
             caaJson[accno]["poster"] = a["Poster"]
             caaJson[accno]["folio"] = a["Folio"]
-            caaJson[accno]["cdrom"] = a["CD"]
+            caaJson[accno]["cdrom"] = a["CD-ROM"]
+            caaJson[accno]["correspondance"] = a["Correspondance"]
+            caaJson[accno]["libex"] = a["Library_Exhibit"]
         except ValueError: 
             print("Artist_Accession_Number not numeric: " + a["Artist_Accession_Number"] )
            
